@@ -2,6 +2,6 @@
   "format": "ringer-vault-config",
   "version": 1,
   "issued": "2026-11-11T02:09:26Z",
-  "freeLogins": 20,
+  "freeLogins": 25,
   "signature": "T85aXwO4264TBtQy4mvPVRtWZkvZ/hEBAGQafvDi3lH/10fFzDFccNtIX8A+jOvOwizrUkrUJS+l4iWrPaRLBQ=="
 }
