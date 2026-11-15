@@ -1,7 +1,7 @@
 {
   "format": "ringer-vault-config",
-  "version": 2,
-  "issued": "2026-11-11T02:09:26Z",
-  "freeLogins": 25,
-  "signature": "T85aXwO4264TBtQy4mvPVRtWZkvZ/hEBAGQafvDi3lH/10fFzDFccNtIX8A+jOvOwizrUkrUJS+l4iWrPaRLBQ=="
+  "version": 1,
+  "issued": "2026-11-15T06:17:14Z",
+  "freeLogins": 40,
+  "signature": "uD5ulhwavjqJVYBudPaQcAxBNtM89WZ41Y4x0tUrfZ39yrbVx2KXG9uZKF6/yN7D7LSxu0VtEVlKWz5gmKbzAw=="
 }
